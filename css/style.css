@@ -84,7 +84,6 @@ body {
     min-width: 998px;
 }
 
-<<<<<<< HEAD
 .banner {
     height: 700px;
     background: url("../image/banner.png") center;
@@ -108,7 +107,8 @@ body {
 .Icon {
     height: 2051px;
     background: url("../image/icos.png") center;
-=======
+}
+
 .app {
     height: 700px;
     background: url("../image/app.png") center;
@@ -145,53 +145,40 @@ body {
 
 .Icon {
     height: 1215px;
->>>>>>> origin/gh-pages
 }
 
 .Mobile {
     height: 700px;
-<<<<<<< HEAD
     background: url("../image/Mobile.png") center;
-=======
->>>>>>> origin/gh-pages
 }
 
 .pad {
     height: 791px;
-<<<<<<< HEAD
     background: url("../image/pad.png") center;
-=======
->>>>>>> origin/gh-pages
 }
 
 .Flat {
     height: 700px;
-<<<<<<< HEAD
     background: url("../image/Flat%20.png") center;
 }
 
 .qiyez {
     height: 700px;
     background: url("../image/qiyez.png") center;
-=======
->>>>>>> origin/gh-pages
 }
 
 .code {
     height: 700px;
-<<<<<<< HEAD
     background: url("../image/code.png") center;
 }
 
 .contact {
     height: 700px;
     background: url("../image/contact.png") center;
-=======
 }
 
 .contact {
     height: 542px;
->>>>>>> origin/gh-pages
 }
 
 .J_Poster {
