@@ -109,44 +109,6 @@ body {
     background: url("../image/icos.png") center;
 }
 
-.app {
-    height: 700px;
-    background: url("../image/app.png") center;
-}
-
-.WeChat {
-    height: 700px;
-    background: url("../image/WeChat.png") center;
-}
-
-.qiyez {
-    height: 700px;
-    background: url("../image/qiyez.png") center;
-}
-
-.anchor {
-    overflow: hidden;
-    position: relative;
-}
-
-.imgC {
-    position: absolute;
-    left: 50%;
-    margin-left: -960px;
-}
-
-.banner {
-    height: 700px;
-}
-
-.Resume {
-    height: 700px;
-}
-
-.Icon {
-    height: 1215px;
-}
-
 .Mobile {
     height: 700px;
     background: url("../image/Mobile.png") center;
@@ -177,9 +139,7 @@ body {
     background: url("../image/contact.png") center;
 }
 
-.contact {
-    height: 542px;
-}
+
 
 .J_Poster {
     top: 145px;
