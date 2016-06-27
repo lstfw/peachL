@@ -1,0 +1,244 @@
+@charset "utf-8";
+/* CSS Document */
+body, div, a, img, p, h1, h2, h3, h4, h5, h6, ul, li, ol, dl, dt, dd, input, span {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    background: #000;
+    margin-top: 90px;
+}
+
+.nav {
+    background: url("../image/01daohan.png");
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 100000;
+}
+
+.container {
+    width: 998px;
+    margin: 0 auto;
+}
+
+.menu {
+    float: right;
+    text-align: center;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li:hover {
+    background-color: #666;
+    color: #fff;
+}
+
+.menu .menuLi {
+    width: 145px;
+    height: 30px;
+    color: #ffd200;
+    padding: 30px 0;
+}
+
+.menu2 {
+    margin-top: 24px;
+    display: none;
+    padding: 10px 0;
+    background-color: #302e32;
+}
+
+.menu2 li {
+    float: none;
+    width: 145px;
+    height: 30px;
+    line-height: 30px;
+    float: none;
+    color: #fff;
+
+}
+
+.menu2 li {
+    color: #ffd200;
+}
+
+.menu li:hover .menuLi {
+    color: #fff;
+    background-color: #666;
+}
+
+.menu2 li:hover {
+    background-color: #666;
+    color: red;
+}
+
+.menu li:hover .menu2 {
+    display: block;
+}
+
+.main {
+    min-width: 998px;
+}
+
+<<<<<<< HEAD
+.banner {
+    height: 700px;
+    background: url("../image/banner.png") center;
+}
+
+.Resume {
+    height: 700px;
+    background: url("../image/Resume.png") center;
+}
+
+.app {
+    height: 700px;
+    background: url("../image/app.png") center;
+}
+
+.WeChat {
+    height: 700px;
+    background: url("../image/WeChat.png") center;
+}
+
+.Icon {
+    height: 2051px;
+    background: url("../image/icos.png") center;
+=======
+.app {
+    height: 700px;
+    background: url("../image/app.png") center;
+}
+
+.WeChat {
+    height: 700px;
+    background: url("../image/WeChat.png") center;
+}
+
+.qiyez {
+    height: 700px;
+    background: url("../image/qiyez.png") center;
+}
+
+.anchor {
+    overflow: hidden;
+    position: relative;
+}
+
+.imgC {
+    position: absolute;
+    left: 50%;
+    margin-left: -960px;
+}
+
+.banner {
+    height: 700px;
+}
+
+.Resume {
+    height: 700px;
+}
+
+.Icon {
+    height: 1215px;
+>>>>>>> origin/gh-pages
+}
+
+.Mobile {
+    height: 700px;
+<<<<<<< HEAD
+    background: url("../image/Mobile.png") center;
+=======
+>>>>>>> origin/gh-pages
+}
+
+.pad {
+    height: 791px;
+<<<<<<< HEAD
+    background: url("../image/pad.png") center;
+=======
+>>>>>>> origin/gh-pages
+}
+
+.Flat {
+    height: 700px;
+<<<<<<< HEAD
+    background: url("../image/Flat%20.png") center;
+}
+
+.qiyez {
+    height: 700px;
+    background: url("../image/qiyez.png") center;
+=======
+>>>>>>> origin/gh-pages
+}
+
+.code {
+    height: 700px;
+<<<<<<< HEAD
+    background: url("../image/code.png") center;
+}
+
+.contact {
+    height: 700px;
+    background: url("../image/contact.png") center;
+=======
+}
+
+.contact {
+    height: 542px;
+>>>>>>> origin/gh-pages
+}
+
+.J_Poster {
+    top: 145px;
+    margin: 0 auto;
+}
+
+.qyz {
+    width: 955px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 100px;
+}
+
+.qyz img {
+    width: 300px;
+    margin-bottom: 130px;
+}
+
+.m_r355 {
+    margin-right: 351px;
+}
+
+.qyz .active {
+    width: 516px;
+    position: absolute;
+    left: 50%;
+    margin-left: -258px;
+    top: 222px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
